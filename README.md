@@ -21,3 +21,7 @@
 # e. Se crea la factura normal
 <img width="1917" height="946" alt="image" src="https://github.com/user-attachments/assets/6f67b5ff-6ac8-46ca-8ec3-0faf7e2a9108" />
 
+## Fase 3.
+# 1 y 2
+<img width="1903" height="948" alt="image" src="https://github.com/user-attachments/assets/dcaa5a23-4c10-460a-ab1b-f975b878350a" />
+
