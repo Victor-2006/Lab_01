@@ -18,4 +18,6 @@
 <img width="1913" height="945" alt="image" src="https://github.com/user-attachments/assets/3ed8e096-4288-455d-8eb6-bc2f200a1b20" />
 # d. Se activa el boton crear factura
 <img width="1919" height="945" alt="image" src="https://github.com/user-attachments/assets/150c587a-1c14-43b3-8a72-40f5acdfb0b0" />
+# e. Se crea la factura normal
+<img width="1917" height="946" alt="image" src="https://github.com/user-attachments/assets/6f67b5ff-6ac8-46ca-8ec3-0faf7e2a9108" />
 
