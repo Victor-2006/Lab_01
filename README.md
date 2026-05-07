@@ -25,3 +25,8 @@
 #   RESULTADO DE LA FACTURA
 <img width="1903" height="948" alt="image" src="https://github.com/user-attachments/assets/dcaa5a23-4c10-460a-ab1b-f975b878350a" />
 
+## FASE 3.
+# 1 Y 2
+<img width="1919" height="630" alt="image" src="https://github.com/user-attachments/assets/318690ff-1a8a-4682-8fbd-4dccee8358dd" />
+
+
