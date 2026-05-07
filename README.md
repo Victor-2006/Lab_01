@@ -33,5 +33,8 @@
 # A Y B
 <img width="981" height="883" alt="image" src="https://github.com/user-attachments/assets/9a9ff8fb-20d6-405a-ab4a-88ea61696314" />
 
+# 4. CSV CORRECTO 
+<img width="1891" height="420" alt="image" src="https://github.com/user-attachments/assets/a7e9b074-2dd5-4d7f-bb2d-b8ce71c89c33" />
+
 
 
