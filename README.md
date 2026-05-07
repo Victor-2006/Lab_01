@@ -29,4 +29,9 @@
 # 1 Y 2
 <img width="1919" height="630" alt="image" src="https://github.com/user-attachments/assets/318690ff-1a8a-4682-8fbd-4dccee8358dd" />
 
+# 3. 
+# A Y B
+<img width="981" height="883" alt="image" src="https://github.com/user-attachments/assets/9a9ff8fb-20d6-405a-ab4a-88ea61696314" />
+
+
 
