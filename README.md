@@ -14,7 +14,7 @@
 <img width="1915" height="938" alt="image" src="https://github.com/user-attachments/assets/b36b6ab0-b783-4fb8-94bc-9f93933ce4c8" />
 # b. Se activa el boton del camion
 <img width="1919" height="944" alt="image" src="https://github.com/user-attachments/assets/cd7c83af-39d2-4f84-af62-e19677c1a9d9" />
-# c.
+# c. Factura validada
 <img width="1913" height="945" alt="image" src="https://github.com/user-attachments/assets/3ed8e096-4288-455d-8eb6-bc2f200a1b20" />
 # d. Se activa el boton crear factura
 <img width="1919" height="945" alt="image" src="https://github.com/user-attachments/assets/150c587a-1c14-43b3-8a72-40f5acdfb0b0" />
